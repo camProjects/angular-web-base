@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "angular-web-base"
+  "defaultProject": "angular-web-base",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
